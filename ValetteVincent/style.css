@@ -1,0 +1,58 @@
+
+body {
+}
+#tete {
+	background-color:lightblue;
+	height:100px;
+	width:100%;
+	text-align:center;
+	
+}
+
+
+#corps {
+	background-color:lightblue;
+	height:500px;
+	width:100%;
+} 
+
+
+#pied {
+} 
+
+#logo {
+	float:right;
+	position:absolute;
+	top:30px;
+	right:20px;
+	
+}
+	
+#image {
+	float:right;
+	height:52vh;
+	width:60%;
+}
+.texte {
+	color: red;
+	font-family: verdana;
+	font-size:200%;	
+}
+#description {
+	
+	background-color:lightblue;
+	height:100px;
+	width:100%;
+	
+}
+#adress {
+	background-color:lightblue;
+	height:100px;
+	width:96%;
+	margin:10px;
+	border-style:solid;
+	padding:1%;
+	
+	
+	
+}
